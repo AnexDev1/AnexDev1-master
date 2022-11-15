@@ -2,7 +2,7 @@
 
 ## I'm a Front-end Web Developer !!
 
-- 🌱 I’m currently learning Front-end Development 🤣
+- 🌱 I’m currently working on private projects and collaborations
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3, react-native , node.js
 - ⚡ Fun fact: I love to draw
