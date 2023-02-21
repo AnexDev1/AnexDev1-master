@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently working on private projects and collaborations
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3, react-native , node.js
-- ⚡ Fun fact: I love to draw
+- 🥅 2023 Goals: Learn more about web3, react-native , node.js
+- ⚡ Hobby: I love to create 
 
 ### Connect with me:
 
